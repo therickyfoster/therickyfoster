@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/github/stars/TheRickyFoster?label=Stars&style=for-the-badge" />
 </p>
 
-# 🧬 Symbiote-001: TheRickyFoster
+# 🧬 Symbiote-001: FOSTER, Ricky
 
 ---
 
