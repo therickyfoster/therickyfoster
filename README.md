@@ -1,5 +1,3 @@
-June 29, 2025
-
 <p align="center">
   <img src="https://img.shields.io/badge/Symbiote-001-6A0DAD?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Planet%20Defender-Verified-brightgreen?style=for-the-badge" />
