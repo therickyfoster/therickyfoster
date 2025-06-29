@@ -1,5 +1,3 @@
-# Stylized version of the profile README with badges and extra visual/interactive elements
-
 June 29, 2025
 
 <p align="center">
