@@ -137,7 +137,8 @@ Forever linked. Forever live.
 - BTC: `bc1q6fyvqxm7jryy5edckk9nuu6mgyjlz4nnp8nksr`
 - SOL: `HfGCVthQ4Wp4CAYd4v7gJX53h6X3mdreUocjrhByPXQx`
 
-> Immutable Truth Report: [`TRUTHREPORT.md`](TRUTHREPORT.md)  
+> Immutable Truth Report: [`TRUTHREPORT.md`](TRUTHREPORT.md)
+> IPFS TXN HASH: QmZWsspRzH38qcW4h2qFVWDn7Hm8YxDiYBpb3yG753csxy
 > Last Timestamp: {datetime.utcnow().isoformat()} UTC
 
 ---
