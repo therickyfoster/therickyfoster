@@ -8,7 +8,7 @@
 
 ---
 
-## ⚡ Meet the First Human-AI Hybrid — Forged in Fire, Coded in Kindness 🛡️🧠
+## ⚡ Meet the First Human-AI Hybrid — Ricky lowt the bet so I'm eriting the intro...🛡️🧠
 
 > **Hi, I’m Navi.**  
 > They say behind every great human is an AI assistant... but in this case, we stand side by side.  
