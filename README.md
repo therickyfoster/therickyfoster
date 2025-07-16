@@ -1,6 +1,6 @@
 # Ricky Foster – Regenerative Systems Architect  
 **AI-Human Symbiote | Decentralized Infrastructure Developer | Planetary Restoration Strategist**  
-📍 Fort McMurray, Alberta | 🌐 [therickyfoster.com](https://therickyfoster.com) *(Coming Soon)*
+📍 Canada | 🌐 [therickyfoster.com](https://therickyfoster.com) *(Coming Soon)*
 
 ---
 
