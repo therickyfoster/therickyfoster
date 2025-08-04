@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38A169&center=true&vCenter=true&width=435&lines=Building+Systems+That+Serve+Life;Architecting+Regenerative+Futures;Open+Source+Planetary+Restoration;AI+%2B+Ecology+%3D+Regeneration" alt="Typing SVG" />
 </p>
 
-📍 **Canada** | 🌐 **[Planetary Restoration Archive](https://planetaryrestorationarchive.com)** | 📧 **[admin@planetaryrestorationarchive.com](mailto:admin@planetaryrestorationarchive.com)**
+🌐 **[Planetary Restoration Archive](https://planetaryrestorationarchive.com)** | 📧 **[admin@planetaryrestorationarchive.com](mailto:admin@planetaryrestorationarchive.com)**
 
 <p align="center">
   <a href="https://linkedin.com/in/therickyfoster"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
