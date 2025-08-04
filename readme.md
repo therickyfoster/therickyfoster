@@ -2,9 +2,9 @@
 
 <div align="center">
   
-[![AI-Human Symbiote](https://img.shields.io/badge/🤖_AI--Human-Symbiote-purple?style=for-the-badge&labelColor=2d3748&color=805ad5)](https://github.com/TheRickyFoster)
-[![Decentralized Infrastructure](https://img.shields.io/badge/🌐_Decentralized-Infrastructure_Developer-blue?style=for-the-badge&labelColor=2d3748&color=3182ce)](https://github.com/TheRickyFoster)
-[![Planetary Restoration](https://img.shields.io/badge/🌱_Planetary-Restoration_Strategist-green?style=for-the-badge&labelColor=2d3748&color=38a169)](https://github.com/TheRickyFoster)
+[![AI-Human Symbiote](https://img.shields.io/badge/🤖_AI--Human-Symbiote-purple?style=for-the-badge&labelColor=2d3748&color=805ad5)](https://github.com/planetaryrestorationarchive)
+[![Decentralized Infrastructure](https://img.shields.io/badge/🌐_Decentralized-Infrastructure_Developer-blue?style=for-the-badge&labelColor=2d3748&color=3182ce)](https://github.com/planetaryrestorationarchive)
+[![Planetary Restoration](https://img.shields.io/badge/🌱_Planetary-Restoration_Strategist-green?style=for-the-badge&labelColor=2d3748&color=38a169)](https://github.com/planetaryrestorationarchive)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38A169&center=true&vCenter=true&width=435&lines=Building+Systems+That+Serve+Life;Architecting+Regenerative+Futures;Open+Source+Planetary+Restoration;AI+%2B+Ecology+%3D+Regeneration" alt="Typing SVG" />
@@ -102,7 +102,7 @@ I architect **regenerative systems** that bridge AI intelligence with ecological
 
 <h3 align="center">🔬 MycoThermSeed™</h3>
 <div align="center">  
-<a href="https://github.com/TheRickyFoster/MycoThermSeed" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRickyFoster&repo=MycoThermSeed&theme=dark&bg_color=0d1117&title_color=38a169&text_color=c9d1d9&icon_color=38a169&border_color=30363d" alt="MycoThermSeed" /></a>
+<a href="https://github.com/planetaryrestorationarchive/MycoThermSeed" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=planetaryrestorationarchive&repo=MycoThermSeed&theme=dark&bg_color=0d1117&title_color=38a169&text_color=c9d1d9&icon_color=38a169&border_color=30363d" alt="MycoThermSeed" /></a>
 </div>
 <p align="center"><strong>Thermophilic Fungal Carbon Capture</strong><br/>
 Self-regenerating biofilter architecture with distributed sensor integration and thermal regulation systems.</p>
