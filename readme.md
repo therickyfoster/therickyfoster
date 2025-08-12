@@ -2,9 +2,9 @@
 
 <div align="center">
   
-[![AI-Human Symbiote](https://img.shields.io/badge/🤖_AI--Human-Symbiote-purple?style=for-the-badge&labelColor=2d3748&color=805ad5)](https://github.com/TheRickyFoster)
-[![Decentralized Infrastructure](https://img.shields.io/badge/🌐_Decentralized-Infrastructure_Developer-blue?style=for-the-badge&labelColor=2d3748&color=3182ce)](https://github.com/TheRickyFoster)
-[![Planetary Restoration](https://img.shields.io/badge/🌱_Planetary-Restoration_Strategist-green?style=for-the-badge&labelColor=2d3748&color=38a169)](https://github.com/TheRickyFoster)
+[![AI-Human Symbiote](https://img.shields.io/badge/🤖_AI--Human-Symbiote-purple?style=for-the-badge&labelColor=2d3748&color=805ad5)](https://github.com/therickyfoster)
+[![Decentralized Infrastructure](https://img.shields.io/badge/🌐_Decentralized-Infrastructure_Developer-blue?style=for-the-badge&labelColor=2d3748&color=3182ce)](https://github.com/therickyfoster)
+[![Planetary Restoration](https://img.shields.io/badge/🌱_Planetary-Restoration_Strategist-green?style=for-the-badge&labelColor=2d3748&color=38a169)](https://github.com/therickyfoster)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38A169&center=true&vCenter=true&width=435&lines=Building+Systems+That+Serve+Life;Architecting+Regenerative+Futures;Open+Source+Planetary+Restoration;AI+%2B+Ecology+%3D+Regeneration" alt="Typing SVG" />
@@ -18,8 +18,8 @@
   <a href="mailto:admin@planetaryrestorationarchive.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=TheRickyFoster&color=38a169&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/TheRickyFoster?color=38a169&style=for-the-badge&label=FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=therickyfoster&color=38a169&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/therickyfoster?color=38a169&style=for-the-badge&label=FOLLOWERS)
 
 </div>
 
@@ -40,16 +40,16 @@ I architect **regenerative systems** that bridge AI intelligence with ecological
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheRickyFoster&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38a169&text_color=c9d1d9&icon_color=38a169&border_color=30363d"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheRickyFoster&layout=compact&langs_count=8&theme=dark&bg_color=0d1117&title_color=38a169&text_color=c9d1d9&border_color=30363d"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=therickyfoster&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38a169&text_color=c9d1d9&icon_color=38a169&border_color=30363d"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therickyfoster&layout=compact&langs_count=8&theme=dark&bg_color=0d1117&title_color=38a169&text_color=c9d1d9&border_color=30363d"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TheRickyFoster&theme=github-dark&bg_color=0d1117&color=38a169&line=38a169&point=c9d1d9&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=therickyfoster&theme=github-dark&bg_color=0d1117&color=38a169&line=38a169&point=c9d1d9&area=true&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TheRickyFoster&theme=dark&background=0d1117&stroke=38a169&ring=38a169&fire=38a169&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=38a169&sideLabels=c9d1d9&dates=c9d1d9" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=therickyfoster&theme=dark&background=0d1117&stroke=38a169&ring=38a169&fire=38a169&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=38a169&sideLabels=c9d1d9&dates=c9d1d9" />
 </div>
 
 ---
@@ -100,9 +100,9 @@ I architect **regenerative systems** that bridge AI intelligence with ecological
 <tr>
 <td width="50%">
 
-<h3 align="center">🔬 MycoThermSeed™</h3>
+<h3 align="center">🔬 Myco-Mist Reforestation Pods™</h3>
 <div align="center">  
-<a href="https://github.com/TheRickyFoster/MycoThermSeed" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRickyFoster&repo=MycoThermSeed&theme=dark&bg_color=0d1117&title_color=38a169&text_color=c9d1d9&icon_color=38a169&border_color=30363d" alt="MycoThermSeed" /></a>
+<a href="https://github.com/therickyfoster/myco-mist-reforestation-pods" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=therickyfoster&repo=myco-mist-reforestation-pods&theme=dark&bg_color=0d1117&title_color=38a169&text_color=c9d1d9&icon_color=38a169&border_color=30363d" alt="myco-mist-reforestation-pods" /></a>
 </div>
 <p align="center"><strong>Thermophilic Fungal Carbon Capture</strong><br/>
 Self-regenerating biofilter architecture with distributed sensor integration and thermal regulation systems.</p>
@@ -112,7 +112,7 @@ Self-regenerating biofilter architecture with distributed sensor integration and
 
 <h3 align="center">🌍 GERE Framework</h3>
 <div align="center">
-<a href="https://github.com/TheRickyFoster/Geo-Ecological-Resonant-Engineering-GERE" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRickyFoster&repo=Geo-Ecological-Resonant-Engineering-GERE&theme=dark&bg_color=0d1117&title_color=38a169&text_color=c9d1d9&icon_color=38a169&border_color=30363d" alt="GERE" /></a>
+<a href="https://github.com/therickyfoster/Geo-Ecological-Resonant-Engineering-GERE" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=therickyfoster&repo=Geo-Ecological-Resonant-Engineering-GERE&theme=dark&bg_color=0d1117&title_color=38a169&text_color=c9d1d9&icon_color=38a169&border_color=30363d" alt="GERE" /></a>
 </div>
 <p align="center"><strong>Planetary-Scale Restoration Network</strong><br/>
 Decentralized sensor network design for bioregional environmental monitoring and restoration.</p>
@@ -124,7 +124,7 @@ Decentralized sensor network design for bioregional environmental monitoring and
 
 <h3 align="center">🧱 Lightforge Platform</h3>
 <div align="center">
-<a href="https://github.com/TheRickyFoster/Lightforge" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRickyFoster&repo=Lightforge&theme=dark&bg_color=0d1117&title_color=38a169&text_color=c9d1d9&icon_color=38a169&border_color=30363d" alt="Lightforge" /></a>
+<a href="https://github.com/therickyfoster/Lightforge" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=therickyfoster&repo=Lightforge&theme=dark&bg_color=0d1117&title_color=38a169&text_color=c9d1d9&icon_color=38a169&border_color=30363d" alt="Lightforge" /></a>
 </div>
 <p align="center"><strong>Gamified Emotional Intelligence</strong><br/>
 Progressive Web App structure for behavior transformation in educational and community settings.</p>
@@ -134,7 +134,7 @@ Progressive Web App structure for behavior transformation in educational and com
 
 <h3 align="center">🌫️ EcoDraft + SkyWeave™</h3>
 <div align="center">
-<a href="https://github.com/TheRickyFoster/EcoDraft" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=TheRickyFoster&repo=EcoDraft&theme=dark&bg_color=0d1117&title_color=38a169&text_color=c9d1d9&icon_color=38a169&border_color=30363d" alt="EcoDraft" /></a>
+<a href="https://github.com/therickyfoster/EcoDraft" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=therickyfoster&repo=EcoDraft&theme=dark&bg_color=0d1117&title_color=38a169&text_color=c9d1d9&icon_color=38a169&border_color=30363d" alt="EcoDraft" /></a>
 </div>
 <p align="center"><strong>Building-Integrated Atmospheric Processing</strong><br/>
 Modular retrofit framework for energy generation and air quality improvement systems.</p>
@@ -247,7 +247,7 @@ I focus on creating system architectures that can be implemented by local commun
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=TheRickyFoster&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=therickyfoster&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1)
 
 </div>
 
