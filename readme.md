@@ -112,7 +112,7 @@ Self-regenerating biofilter architecture with distributed sensor integration and
 
 <h3 align="center">🌍 GERE Framework</h3>
 <div align="center">
-<a href="https://github.com/therickyfoster/Geo-Ecological-Resonant-Engineering-GERE" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=therickyfoster&repo=Geo-Ecological-Resonant-Engineering-GERE&theme=dark&bg_color=0d1117&title_color=38a169&text_color=c9d1d9&icon_color=38a169&border_color=30363d" alt="GERE" /></a>
+<a href="https://github.com/therickyfoster/Geo-Ecological-Resonant-Engineering-GERE-" target="_blank"><img style="margin: 10px" src="https://github-readme-stats.vercel.app/api/pin/?username=therickyfoster&repo=Geo-Ecological-Resonant-Engineering-GERE-&theme=dark&bg_color=0d1117&title_color=38a169&text_color=c9d1d9&icon_color=38a169&border_color=30363d" alt="GERE" /></a>
 </div>
 <p align="center"><strong>Planetary-Scale Restoration Network</strong><br/>
 Decentralized sensor network design for bioregional environmental monitoring and restoration.</p>
