@@ -40,7 +40,9 @@ I architect **regenerative systems** that bridge AI intelligence with ecological
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=therickyfoster&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=38a169&text_color=c9d1d9&icon_color=38a169&border_color=30363d"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=therickyfoster&show_icons=true&theme=dark&count_private=true&bg_color=0d1117&title_color=38a169&text_color=c9d1d9&icon_color=38a169&border_color=30363d&cache_seconds=1800"/>
+</div>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therickyfoster&layout=compact&langs_count=8&theme=dark&bg_color=0d1117&title_color=38a169&text_color=c9d1d9&border_color=30363d"/>
 </div>
 
